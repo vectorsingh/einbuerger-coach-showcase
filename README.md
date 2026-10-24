@@ -6,7 +6,7 @@
 
 <p align="center">
   An iPhone app for preparing for Germany's citizenship test (<i>Einbürgerungstest / Leben in Deutschland</i>).<br>
-  <b>The exam stays German. Understanding it doesn't have to.</b>
+  <b>The official German questions, explained in your language.</b>
 </p>
 
 <p align="center">
